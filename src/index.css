@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body
+{
+    font-family: 'Roboto Slab', serif;
+}
+
+.standingsContainer > div:last-child
+{
+    margin-bottom:40px;
+}
